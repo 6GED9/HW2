@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E9F12A63-081E-47B8-B731-E0BF1E480E76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Math2/Program.cs">
+    <Files>
+      <File FileName="Math2/Program.cs" Line="28" Column="2" />
+      <File FileName="Math2/Matrix.cs" Line="58" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Math2" expanded="True">
+            <Node name="Math2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Math2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
